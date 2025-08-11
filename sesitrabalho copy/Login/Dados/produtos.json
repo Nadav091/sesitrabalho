@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "nome": "Pelúcia Hello Kitty Clássica",
+      "descricao": "A clássica Hello Kitty com lacinho vermelho.",
+      "preco": 89.90,
+      "imagem": "loja/imagens/hello1.webp"
+    },
+    {
+      "id": 2,
+      "nome": "Pelúcia Hello Kitty Unicórnio",
+      "descricao": "Hello Kitty vestida de unicórnio, super fofa!",
+      "preco": 109.90,
+      "imagem": "loja/imagens/hello2.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Pelúcia Hello Kitty Coração",
+      "descricao": "Hello Kitty segurando um coração rosa.",
+      "preco": 99.90,
+      "imagem": "loja/imagens/hello3.jpg"
+    }
+  ]
